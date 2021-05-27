@@ -1,0 +1,69 @@
+[
+  {
+    "name": "Leia Burger",
+    "ingredients": ["cheese", "meat"],
+    "id": 1
+  },
+  {
+    "name": "Luke Burger",
+    "ingredients": ["tomato", "meat", "lettuce"],
+    "id": 2
+  },
+  {
+    "name": "Ham Solo Burger",
+    "ingredients": ["bacon", "cheese", "meat"],
+    "id": 3
+  },
+  {
+    "name": "Double Ham Solo",
+    "ingredients": ["bacon", "cheese", "meat", "meat"],
+    "id": 4
+  },
+  {
+    "name": "All-green Yoda Burger",
+    "ingredients": ["cheese", "tomato", "cucumber", "lettuce"],
+    "id": 5
+  },
+  {
+    "name": "The Chewbacca",
+    "ingredients": ["tomato", "cucumber", "cheese", "meat", "meat", "meat"],
+    "id": 6
+  },
+  {
+    "name": "Darth Vader Burger",
+    "ingredients": ["tomato", "cucumber", "bacon", "cheese", "meat", "lettuce"],
+    "id": 7
+  },
+  {
+    "name": "The Emperor",
+    "ingredients": [
+      "bacon",
+      "cheese",
+      "meat",
+      "bacon",
+      "cheese",
+      "meat",
+      "bacon",
+      "cheese",
+      "meat"
+    ],
+    "id": 8
+  },
+  {
+    "name" : "Butter Chicken",
+    "ingredients" : ["chicken", "tomato", "ginger"],
+    "id": 1
+  },
+  
+  {
+    "name" : "Pasta Carbonara",
+    "ingredients" : ["meat", "tomato","garlic"],
+    "id": 2
+  },
+  
+  {
+    "name" : "Apple Pie",
+    "ingredients" : ["apple", "ginger", "butter"],
+    "id": 3
+  }
+]
